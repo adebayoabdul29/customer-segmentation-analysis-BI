@@ -80,7 +80,7 @@ We defined age groups as:
 
 ## Visualizations
 
-The Python script generates the following plots:
+
 - Gender distribution (pie/bar chart)
 - Age histogram by gender
 - Income distribution by customer segment
@@ -90,11 +90,3 @@ The Python script generates the following plots:
 - Age group averages (bar chart)
 - Segment distribution (stacked bar by gender)
 
-All plots are saved in the `output/` folder (created automatically).
-
-## How to Run the Analysis
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/customer-segmentation-analysis.git
-   cd customer-segmentation-analysis
