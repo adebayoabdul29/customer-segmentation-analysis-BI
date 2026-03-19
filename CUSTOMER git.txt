@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Output
+output/
+*.png
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
